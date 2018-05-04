@@ -44,10 +44,10 @@ body {
   display: none;
 }
 
-.parent #tag-6 {
+div #tag-6 {
   display: none;
 }
 
-.parent #tag-7 {
+#tag-7.slick {
   display: none;
 }
